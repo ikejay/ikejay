@@ -70,14 +70,14 @@ Here are some ideas to get you started:
 <!-- [<code>
 <img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </code>](https://ubuntu.com/) -->
-[<code>
-<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
-</code>](https://developer.apple.com/macos/)
+<!-- [<code> -->
+<!-- <img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
+</code>](https://developer.apple.com/macos/) -->
 <!-- [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/) -->
 
----
+<!-- --- -->
 
 <!-- ## 📝 Latest Blog Posts -->
 
@@ -95,13 +95,13 @@ Here are some ideas to get you started:
 - [Embed Dev.to as a blog on your React Website](https://dev.to/thesabesan/embed-dev-to-as-a-blog-on-your-react-website-3l8c)
 - [Beautify Your GitHub Profile README](https://dev.to/thesabesan/beautify-your-github-profile-readme-10cf)
 <!-- DEVTO:END -->
- -->
----
+<!--  -->
+<!-- -->
 
 <!-- ### Stack Overflow
 [![SabesanSathananthan StackOverflow](https://github-readme-stackoverflow-six.vercel.app/?userID=8629258)](https://stackoverflow.com/users/8629258/sabesan)
 
---- --> -->
+--- -->
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
@@ -113,11 +113,11 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ---
 
-<p align=center>                           
+<!-- <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=ikejay.ikejay" alt="Visitors">                     
-</p>
+</p> -->
 
----
+<!-- --- -->
 
 <!-- [website]: https://sabesansathananthan.now.sh -->
 [linkedin]: https://www.linkedin.com/in/isaac-annan
@@ -128,7 +128,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <!-- [quora]: https://www.quora.com/profile/Sathananthan-Sabesan -->
 [whatsapp]: https://wa.me/233549258766
 <!-- [telegram]: https://telegram.me/TheSabesan -->
-[twitter]: https://twitter.com/TheSabesan
+<!-- [twitter]: https://twitter.com/TheSabesan -->
 [skype]: https://join.skype.com/invite/hGgVYFnMnx1x
 [facebook]: https://www.facebook.com/ike
 <!-- [messenger]: https://www.messenger.com/t/sathananthan.sabesan -->
