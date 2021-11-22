@@ -39,15 +39,6 @@ Here are some ideas to get you started:
 [<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-<!-- [<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/) -->
-<!-- [<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-[<code>
-<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</code>](https://eslint.org/) -->
 [<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
@@ -76,6 +67,15 @@ Here are some ideas to get you started:
 <!-- [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/) -->
+<!-- [<code>
+<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
+</code>](https://sass-lang.com/) -->
+<!-- [<code>
+<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
+</code>](https://www.json.org/json-en.html)
+[<code>
+<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
+</code>](https://eslint.org/) -->
 
 <!-- --- -->
 
@@ -120,18 +120,19 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <!-- --- -->
 
-<!-- [website]: https://sabesansathananthan.now.sh -->
+
 [linkedin]: https://www.linkedin.com/in/isaac-annan
+[gmail]: mailto:isaac5annan@gmail.com
+[whatsapp]: https://wa.me/233549258766
+[skype]: https://join.skype.com/invite/hGgVYFnMnx1x
+[facebook]: https://www.facebook.com/isaac.j.abrahams
+[instagram]: https://www.instagram.com/succianan
+<!-- [flipboard]: https://flipboard.com/@TheSabesan -->
 <!-- [medium]: https://sabesan96.medium.com/ -->
 <!-- [stackoverflow]: https://stackoverflow.com/users/8629258/sathananthan-sabesan -->
 <!-- [dev]: https://dev.to/thesabesan -->
-[gmail]: mailto:isaac5annan@gmail.com
+<!-- [website]: https://sabesansathananthan.now.sh -->
 <!-- [quora]: https://www.quora.com/profile/Sathananthan-Sabesan -->
-[whatsapp]: https://wa.me/233549258766
 <!-- [telegram]: https://telegram.me/TheSabesan -->
 <!-- [twitter]: https://twitter.com/TheSabesan -->
-[skype]: https://join.skype.com/invite/hGgVYFnMnx1x
-[facebook]: https://www.facebook.com/ike
 <!-- [messenger]: https://www.messenger.com/t/sathananthan.sabesan -->
-[instagram]: https://www.instagram.com/succianan
-<!-- [flipboard]: https://flipboard.com/@TheSabesan -->
