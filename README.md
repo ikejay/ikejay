@@ -39,15 +39,15 @@ Here are some ideas to get you started:
 [<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
+<!-- [<code>
 <img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
-[<code>
+</code>](https://sass-lang.com/) -->
+<!-- [<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
 [<code>
 <img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</code>](https://eslint.org/)
+</code>](https://eslint.org/) -->
 [<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
@@ -102,6 +102,7 @@ Here are some ideas to get you started:
 [![SabesanSathananthan StackOverflow](https://github-readme-stackoverflow-six.vercel.app/?userID=8629258)](https://stackoverflow.com/users/8629258/sabesan)
 
 --- -->
+---
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
