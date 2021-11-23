@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Isaac Annan aka [ikejay] [github]
+
+## I am a Developer, Music Lover, Musician and a Maths Teacher!
 
 <!--
 **ikejay/ikejay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -119,6 +121,17 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </p> -->
 
 <!-- --- -->
+
+### Connect with me:
+<!-- 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="ikejay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="ikejay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ikejay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ikejay | Whatsapp" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="ikejay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 
 [linkedin]: https://www.linkedin.com/in/isaac-annan
