@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Isaac Annan aka IkeJay
 
-## I am a Developer, Music Lover, Musician and a Maths Teacher.
+## I am a Developer, Music Lover, Musician and Data Science Enthusiast.
 
 <!--
 **ikejay/ikejay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
