@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 --- -->
 ---
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+<!-- _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_ -->
 
 <!-- <a href="https://github.com/ikejay/github-readme-stats?hide_border=true&%2Fapiusername=ikejay&include_all_commits=true&count_private=true&theme=radical&show_icons=true">
 <img align="center" justify="center" alt="ikejay's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=ikejay&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
