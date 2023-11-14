@@ -1,12 +1,12 @@
-##👋 Hello World! I'm [Your Name], a passionate frontend web engineer and mobile developer based [Your Location].
+👋 Hello World! I'm [Your Name], a passionate frontend web engineer and mobile developer based in Ghana.
 
-##🚀 Currently, I specialize in Vue.js and React.js for building dynamic and responsive web applications. On the mobile side, I enjoy crafting cross-platform experiences using Flutter.
+🚀 Currently, I specialize in Vue.js and React.js for building dynamic and responsive web applications. On the mobile side, I enjoy crafting cross-platform experiences using Flutter.
 
-##💻 I've contributed to various real-world projects, focusing on creating clean, scalable, and user-friendly code. I'm enthusiastic about optimizing performance, ensuring security, and staying up-to-date with the latest industry trends.
+💻 I've contributed to various real-world projects, focusing on creating clean, scalable, and user-friendly code. I'm enthusiastic about optimizing performance, ensuring security, and staying up-to-date with the latest industry trends.
 
-##🌐 Apart from coding, I love exploring new technologies, collaborating with fellow developers, and contributing to open-source projects. Let's connect and code the future together!
+🌐 Apart from coding, I love exploring new technologies, collaborating with fellow developers, and contributing to open-source projects. Let's connect and code the future together!
 
-##📫 Feel free to reach out for collaboration or just to geek out about tech. Happy coding! 🚀
+📫 Feel free to reach out for collaboration or just to geek out about tech. Happy coding! 🚀
 
 
 <!--
