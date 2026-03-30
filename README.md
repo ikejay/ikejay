@@ -1,4 +1,4 @@
-👋 Hello World! I'm Isaac Annan, a passionate frontend web engineer and mobile developer based in Ghana.
+👋 Hello World! I'm Isaac Annan, a passionate frontend web engineer and mobile developer based in Germany.
 
 🚀 Currently, I specialize in Vue.js and React.js for building dynamic and responsive web applications. On the mobile side, I enjoy crafting cross-platform experiences using Flutter.
 
